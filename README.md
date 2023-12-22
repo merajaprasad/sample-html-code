@@ -5,7 +5,7 @@ Basic html code to create httpd/Apache website.
 
 
 
-## Main
+## Main Page
 
 To Deploy simple webpage.
 
@@ -278,7 +278,7 @@ To Deploy simple webpage.
 
 ```
 
-## Get Into Devops
+## Get Into Devops Page
 
 To Deploy simple "Get Into Devops" page.
 
@@ -317,7 +317,7 @@ To Deploy simple "Get Into Devops" page.
 </article>
 
 ```
-## Error 404
+## 404 error Page
 
 To Deploy 404 error page.
 
