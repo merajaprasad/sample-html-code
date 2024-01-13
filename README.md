@@ -1,7 +1,6 @@
+# HTML Webpage
 
-# Html webpage
-
-Basic html code to create httpd/Apache website.
+Simple html code to create demo httpd/Apache webpage.
 
 
 
